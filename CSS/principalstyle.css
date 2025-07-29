@@ -144,3 +144,28 @@
 .botton1:hover::before {
     transform: translate3d(100%, 0, 0);
 }
+
+.TituloCarta {
+    font-weight: bold;
+    color: #0000e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Productos {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TituloCarta1 {
+    font-weight: bold;
+    color: #0000e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
