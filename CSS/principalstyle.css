@@ -169,3 +169,21 @@
     align-items: center;
 }
 
+.CarrucelSeccion {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CarrucelSeccion2 {
+    width: 100%;
+    max-width: 1400px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
